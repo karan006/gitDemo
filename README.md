@@ -1,2 +1,13 @@
 # gitDemo
- Hi, I’m @karan006 - 👀 I’m interested in ... - 🌱 I’m currently learning ... - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ... Author - Karan Parashar  br this is my first Repo..
+ Hi, I’m @karan006 - 
+ br
+ 👀 I’m interested in ... - 
+ br
+ 🌱 I’m currently learning ... - 
+ br
+ 💞️ I’m looking to collaborate on ... -
+ br
+ 📫 How to reach me ... 
+ Author -  Karan Parashar
+ br
+ This is my first Repo..
